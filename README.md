@@ -8,3 +8,4 @@
 # I can create function that will "return" "model.score" and supplement it into parameters and "train function" "model.fit(X_train, y_train)"
 # So I can use my function to get score of "SVC" """get_score(SVC(), X_train, X_test, y_train, y_test)"""
 # Now I am gonna import "StratifiedKFold" and set number of "folds" at (3) this is better than use "KFold"
+# I am gonna prepare arrays for my scores "score_logistic = []" "score_svm = []" "score_rf = []"
