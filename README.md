@@ -3,3 +3,4 @@
 # My "X" will be "digits.data" and "y" "digits.target"
 # Then i get "LogisticRegression", train it "lr.fit(X_train, y_train)" and get score lr.score(X_test, y_test)""
 # I do it also with "SVC" and "RandomForestClassifier"
+# Next from "sklearn.model_selection" I import "KFold" and set parameter "n_splits" to (3) 
