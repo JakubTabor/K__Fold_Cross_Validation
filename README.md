@@ -7,3 +7,4 @@
 # Now I create "for" loop on my "train_index" and "test_index" and set "kf.split([1,2,3,4,5,6,7,8,9])", It is my data set just to check how it works
 # I can create function that will "return" "model.score" and supplement it into parameters and "train function" "model.fit(X_train, y_train)"
 # So I can use my function to get score of "SVC" """get_score(SVC(), X_train, X_test, y_train, y_test)"""
+# Now I am gonna import "StratifiedKFold" and set number of "folds" at (3)
