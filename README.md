@@ -14,3 +14,4 @@
 # Then I get "y_train" "digits.target[train_index]" and "digits.target[test_index]"
 # Now I gonna mesure scores of my 3 "models" and "append" them in my arrays
 # """score_logistic.append(get_score(LogisticRegression(), X_train, X_test, y_train, y_test))""" and I do exactly the same thing with two remaining
+# Finally i get scores of my models 
