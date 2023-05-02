@@ -12,3 +12,4 @@
 # Now i start for loop with "train_index" and "test_index" on my "digits.data" 
 # My "train_test_split" will be "digits.data[train_index]" and "digits.data[test_index]", now I have "train" and "test" index
 # Then I get "y_train" "digits.target[train_index]" and "digits.target[test_index]"
+# Now I gonna mesure scores of my 3 "models" and "append" them in my arrays
